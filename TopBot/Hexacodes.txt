@@ -1,0 +1,21 @@
+Code     - Mob Name
+
+0xEBB5D6 - Dry Mystic Shrubs
+0x844952 - Snowy Mystic Shrub
+0x295118 - Melons & Cactus
+0xF7D7BD - Humpy Camel
+0xCE9231 - Bear Cub
+0x6B3021 - Cuddly Lamb
+0xDE7573 - Sea snail
+0xB56508 - Little Deer
+0x393894 - Sailor Penguin
+0x5265CE - Naiad
+0x84DF52 - Oyster
+0xF77500 - Horned Penguin
+0x39FBBD - Snowy Shroom
+0x181818 or 0x08B25A Angelic Panda
+0x7B304A or 0xA14256 Smuggler
+0x848E18 - Meadow Deer
+0xEF6D08 or 0xFFB263 Armored Crab
+0x89B252 or 0x855E1F Seaweed 
+0xD6BD8C - Mad Bour
